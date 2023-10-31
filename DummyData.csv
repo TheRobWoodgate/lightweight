@@ -1,4 +1,4 @@
-﻿wk_strt_dt,yr_nbr,qtr_nbr,prd,wk_in_yr_nbr,delivery,mtrf_rain,mtrf_mintemp,mtrf_maxtemp,mtrf_humi9am,mtrf_humi3pm,mtrf_wind9am,mtrf_wind3pm,mtrf_pressure9am,mtrf_pressure3pm,seas_prd_1,seas_prd_2,seas_prd_3,seas_prd_4,seas_prd_5,seas_prd_6,seas_prd_7,seas_prd_8,seas_prd_9,seas_prd_10,seas_prd_11,seas_prd_12
+﻿wk_strt_dt,yr_nbr,qtr_nbr,prd,wk_in_yr_nbr,delivery,mtrf_rain,mtrf_mintemp,mtrf_maxtemp,mtrf_humi9am,mtrf_humi3pm,mtrf_wind9am,mtrf_wind3pm,ntrf_pressure9am,ntrf_pressure3pm,seas_prd_1,seas_prd_2,seas_prd_3,seas_prd_4,seas_prd_5,seas_prd_6,seas_prd_7,seas_prd_8,seas_prd_9,seas_prd_10,seas_prd_11,seas_prd_12
 30/12/2017,2017,2,12,53,500,23,286.55,296.05,71,22,20,24,1007.7,1007.1,0,0,0,0,0,0,0,0,0,0,0,1
 6/01/2018,2018,3,1,1,880,21,280.55,298.25,44,25,4,22,1010.6,1007.8,1,0,0,0,0,0,0,0,0,0,0,0
 13/01/2018,2018,3,1,2,1740,43,286.05,298.85,38,30,19,26,1007.6,1008.7,1,0,0,0,0,0,0,0,0,0,0,0
