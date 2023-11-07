@@ -1,4 +1,4 @@
-﻿wk_strt_dt,yr_nbr,qtr_nbr,prd,wk_in_yr_nbr,delivery,mtrf_mintemp,mtrf_maxtemp,rain,mtrf_temp9am,mtrf_humi9am,mtrf_wind9am,mtrf_pres9am,mtrf_temp3pm,mtrf_humi3pm,mtrf_wind3pm,mtrf_pres3pm,seas_prd_1,seas_prd_2,seas_prd_3,seas_prd_4,seas_prd_5,seas_prd_6,seas_prd_7,seas_prd_8,seas_prd_9,seas_prd_10,seas_prd_11,seas_prd_12
+﻿wk_strt_dt,yr_nbr,qtr_nbr,prd,wk_in_yr_nbr,delivery,mtrf_mintemp,mtrf_maxtemp,mtrf_rain,mtrf_temp9am,mtrf_humi9am,mtrf_wind9am,mtrf_pres9am,mtrf_temp3pm,mtrf_humi3pm,mtrf_wind3pm,mtrf_pres3pm,seas_prd_1,seas_prd_2,seas_prd_3,seas_prd_4,seas_prd_5,seas_prd_6,seas_prd_7,seas_prd_8,seas_prd_9,seas_prd_10,seas_prd_11,seas_prd_12
 1/09/2022,2022,1,9,36,312.2940486,15,23.4,0,19.2,91,19,1022.4,22.9,63,24,1019.3,0,0,0,0,0,0,0,0,1,0,0,0
 2/09/2022,2022,1,9,36,287.6913968,15.6,24.8,0,21.2,76,13,1021,22.7,65,22,1015.6,0,0,0,0,0,0,0,0,1,0,0,0
 3/09/2022,2022,1,9,36,345.0644203,18.2,23.8,11.6,20.6,100,13,1011.2,22.2,66,24,1010.1,0,0,0,0,0,0,0,0,1,0,0,0
